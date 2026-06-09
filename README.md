@@ -57,7 +57,7 @@ Prácticas realizadas sobre hardware real con motores trifásicos, contactores y
 
 ---
 
-## Embedded systems
+## Sistemas embebidos
 **Plataforma:** ESP32 · MicroPython
 
 Control diferencial de motores DC mediante PWM para robot móvil con control WiFi. Lógica de mezcla diferencial y clamping de velocidad.
